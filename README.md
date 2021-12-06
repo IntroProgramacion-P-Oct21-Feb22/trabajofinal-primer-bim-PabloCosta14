@@ -1,5 +1,8 @@
 # Trabajo Final del Primer Bimestre
 
+
+Trabajo Grupal: David Carrion Acosta - Pablo Costa Torres
+
 ## Actividades
 
 * Por cada problemáticas realizar las siguientes actividades
